@@ -1,0 +1,4 @@
+name,format,description
+theta,double,azimuth angle in radians of observation point
+HH,double,radar cross section in dB for HH polarisation
+VV,double,radar cross section in dB for VV polarisation

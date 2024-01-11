@@ -1,0 +1,8 @@
+file name,wavenumber,refractive index
+data_cheby_size8_dielectric.csv,22.8479465715621,1.584
+data_cheby_size8_absorbing1.csv,22.8479465715621,1.5+0.02i
+data_cheby_size8_absorbing2.csv,22.8479465715621,1.0925+0.248i
+data_spheroid2_size8_dielectric.csv,25.1327412287183,1.584
+data_spheroid2_size8_absorbing2.csv,25.1327412287183,1.0925+0.248i
+data_spheroid5_size1_dielectric.csv,3.14159265358979,1.584
+data_spheroid5_size1_absorbing2.csv,3.14159265358979,1.0925+0.248i
